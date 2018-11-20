@@ -1,5 +1,5 @@
 {
-  "name": "mobx-react",
+  "name": "@sevenval/mobx-react-pnp",
   "version": "5.4.1",
   "description": "React bindings for MobX. Create fully reactive components.",
   "main": "index.js",
